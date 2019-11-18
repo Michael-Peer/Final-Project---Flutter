@@ -68,7 +68,7 @@ class ConnectedParkingModel extends Model {
       '/maps/api/geocode/json',
       {
         'latlng': '${lat.toString()}, ${lng.toString()}',
-        'key': 'AIzaSyCgdLPR87KcBEM2rekUjuPhob1TFIhORCQ'
+        'key': 'API KEY HERE'
       },
     );
     final http.Response response = await http.get(uri);
