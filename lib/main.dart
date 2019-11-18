@@ -7,7 +7,7 @@ import './pages/login_page.dart';
 import './parkings.dart';
 
 void main() {
-  MapView.setApiKey('AIzaSyCgdLPR87KcBEM2rekUjuPhob1TFIhORCQ');
+  MapView.setApiKey('API KEY HERE');
   runApp(MyApp());
 }
 
