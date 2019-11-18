@@ -8,6 +8,13 @@ Scoped Model as the State Management of the project
 
 *The project is still under development*
 
+## Project book
+
+*Note: thers is a bit problem with the formatting in the pdf file, will be fix later*
+
+[פרוייקט סיום - מיכאל פאר (1).pdf](https://github.com/Michael-Peer/Final-Project---Flutter/files/3857466/-.1.pdf)
+
+
 ## Screenshots
 
 ### sign-in
