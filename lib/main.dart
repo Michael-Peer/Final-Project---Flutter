@@ -12,9 +12,7 @@ void main() {
 }
 
 
-//list.filter - filter is a function that  execute on every item
 
-// ***WRITE COMMENTS***
 
 //Checked
 //TODO: Disable landscape mode --> checked
