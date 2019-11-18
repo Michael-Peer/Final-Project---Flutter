@@ -2,9 +2,9 @@
 My final project in my practical engineer degree
 
 ## General Info
-The project was created to help with the parking problem
-The project was written using dart, flutter and js and used firebase for storing and auth purposes
-Scoped Model as the State Management of the project
+The project was created to help with the parking problem  
+The project was written using dart, flutter and js and used firebase for storing and auth purposes  
+Scoped Model as the State Management of the project  
 
 *The project is still under development*
 
